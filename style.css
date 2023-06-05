@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Font';
+    src: url('0xProto.otf') format('otf');
+  }
+
+.main{
+    margin-left: 100px;
+}
+
+.btn{
+    font-family: 'Font';
+    font-size: 20px;
+    border: none;
+    padding: 10px 15px;
+    background-color: lightgray;
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+#speed{
+    width: 300px;
+}
+
+#speed_value{
+    font-family: 'Font';
+    width: 80px;
+    font-size: 20px;
+    border: none;
+    padding: 10px 15px;
+    background-color: lightgray;
+    border-radius: 25px;
+    user-select: none;
+}
+
+#pic-div{
+    margin: 50px 0 50px 125px;
+}
