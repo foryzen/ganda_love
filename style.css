@@ -1,7 +1,6 @@
 @font-face{
     font-family: 'Font';
-    font-weight: 400;
-    src: url('https://foryzen.github.io/ganda_love/0xProto.otf') format('otf');
+    src: url('https://foryzen.github.io/ganda_love/0xProto.otf') format('opentype');
 }
 
 .main{
